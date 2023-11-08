@@ -1,0 +1,54 @@
+{
+    "id": "restaurant-app",
+    "start_url": "./index.html",
+    "name": "Trendz Resto Lite",
+    "short_name": "TrendzTo Lite",
+    "description": "Free Review Restaurant for you",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#D84315",
+    "icons": [
+      {
+        "src": "/icons/icon16x16.png",
+        "sizes": "16x16",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon24x24.png",
+        "sizes": "24x24",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon32x32.png",
+        "sizes": "32x32",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon64x64.png",
+        "sizes": "64x64",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon128x128.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon256x256.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  }

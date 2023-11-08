@@ -1,0 +1,72 @@
+@media screen and (min-width: 650px) {
+    .app-bar {
+      grid-template-columns: 1fr auto;
+      padding: 8px 32px;
+    }
+   
+    .app-bar .app-bar__brand h1 {
+      font-size: 1.5em;
+    }
+   
+    .app-bar .app-bar__menu {
+      display: none;
+    }
+   
+    .app-bar .app-bar__navigation {
+      position: static;
+      width: 100%;
+    }
+   
+    .app-bar .app-bar__navigation ul li {
+      display: inline-block;
+    }
+   
+    .app-bar .app-bar__navigation ul li a {
+      display: inline-block;
+      min-width: 44px;
+      min-height: 44px;
+      width: 120px;
+      text-align: center;
+      margin: 0;
+    }
+
+    .restaurant-name {
+      font-size: 20px;
+    }
+  
+    .restaurant__info h3 {
+      font-size: 18px;
+    }
+  
+    .restaurant-poster {
+      max-width: 80%;
+    }
+  
+    .restaurant__info p {
+      font-size: 14px;
+    }
+  
+    .restaurant__description h3 {
+      font-size: 18px;
+    }
+  
+    .restaurant__description p {
+      font-size: 14px;
+    }
+  
+    .restaurant__menu h3 {
+      font-size: 18px;
+    }
+  
+    .restaurant__menu li {
+      font-size: 14px;
+    }
+  
+    .restaurant__reviews h3 {
+      font-size: 18px;
+    }
+  
+    .restaurant__reviews li {
+      font-size: 14px;
+    }
+  }
